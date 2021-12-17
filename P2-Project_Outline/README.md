@@ -13,11 +13,12 @@ The ability to log in,
 Allow users to create and delete tasks,
 A default daily 'weather' feed which can be customized by the user
 ### Technologies
-Java
-Public Weather API
+Java,
+JavaScript,
+Public Weather API,
 React
 
 ### What I'll Have to Learn
-Learning React
+Learning React, learn how to add data from public weather API
 ### Project Tracker
 https://trello.com/b/elG2H7Rz/liftoff-project-board

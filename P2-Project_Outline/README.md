@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Tappy Planner is a daily planner app that allows user to schedule their daily activities
 ### Features
-Include Features here
+The ability to log in
+Allow users to create and delete tasks
+A default daily 'weather' feed which can be customized by the user
 ### Technologies
-Include Technologies here
+React
+
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/elG2H7Rz/liftoff-project-board
